@@ -6,7 +6,7 @@
 
 **Power BI · SQL · Excel · Python · Business Intelligence**
 
-[LinkedIn](#) · [Email](mailto:your-email@example.com) · [Download CV](./Ahmed_Yassin_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/ahmedyassin-dataanalytics) · [Email](mailto:ahmedyasinabdelazim@gmail.com) · [Download CV](./Ahmed_Yassin_CV.pdf)
 
 </div>
 
