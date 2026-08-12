@@ -1,58 +1,67 @@
-# 👋 Hi, I'm Ahmed Yassin
+<div align="center">
 
-## Data Analyst | Business Intelligence | Data Visualization
+# Ahmed Yassin
 
-I specialize in transforming raw data into **business insights, analytical solutions, and interactive dashboards** using Excel, Power BI, SQL, and Python.
+### Data Analyst
 
-### 🛠️ Technical Stack
+**Power BI · SQL · Excel · Python · Business Intelligence**
 
-**BI & Data Analytics**
-- Excel | Power Query | Power Pivot
-- Power BI | DAX | Data Modeling
-- SQL | MySQL
-- Python | Pandas | NumPy
+[LinkedIn](#) · [Email](mailto:your-email@example.com) · [Download CV](./Ahmed_Yassin_CV.pdf)
 
-**Core Skills**
-- Data Cleaning & Transformation
-- Exploratory Data Analysis
-- Business & Financial Analysis
-- KPI Development
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
+</div>
 
-### 💼 Business Domains
+---
 
-I've built analytics projects across multiple business areas:
+## Profile
 
-🛒 **E-Commerce & Sales**  
-💰 **Finance & Financial Reporting**  
-📡 **Telecom**  
-🎓 **Education & LMS**  
-📦 **Supply Chain & Inventory**  
-🏭 **Operations & Manufacturing**  
-📋 **Project Management**  
-🐾 **Retail & Animal Sales**
+Data Analyst with a background in Information Systems, focused on transforming raw data into structured analysis, meaningful insights, and decision-ready dashboards.
 
-### 📊 Analytics Workflow
+I work across the data analytics lifecycle, including data preparation, transformation, data modeling, SQL analysis, DAX development, KPI design, and data visualization.
 
-**Raw Data → Data Cleaning → Transformation → Data Modeling → Analysis → Visualization → Business Insights**
+My approach combines technical analysis with business understanding to deliver clear, reliable, and actionable insights.
 
-My projects focus on solving business problems through data and presenting results in a clear, decision-oriented way.
+---
 
-### 🚀 Currently Learning
+## Core Skills
 
-**Advanced SQL • Python for Data Analysis • Machine Learning • Web Scraping**
+**Business Intelligence**  
+Power BI · DAX · Power Query · Power Pivot · Dashboard Development
 
-### 🎯 Career Focus
+**Data Analysis**  
+Data Cleaning · Exploratory Data Analysis · KPI Analysis · Business Analysis
 
-Building practical **Data Analytics & Business Intelligence solutions** that turn data into clear insights and support better business decisions.
+**Data Modeling**  
+Dimensional Modeling · Relationships · Semantic Models
 
-### 📂 Portfolio
+**Databases**  
+SQL · MySQL · SQL Server
 
-This profile contains selected projects covering different business domains, tools, and analytical use cases.
+**Programming**  
+Python · Pandas · NumPy
 
-### 🤝 Let's Connect
+**Visualization**  
+Power BI · Tableau · Matplotlib · Plotly
 
-Open to **Data Analyst opportunities, freelance projects, and collaborations**.
+**Spreadsheets**  
+Excel · Advanced Excel
 
+---
+
+## Analytics Workflow
+
+```text
+Business Problem
+        ↓
+Data Preparation
+        ↓
+Data Cleaning & Transformation
+        ↓
+Data Modeling
+        ↓
+SQL / DAX Analysis
+        ↓
+KPI Development
+        ↓
+Visualization
+        ↓
+Business Insights
