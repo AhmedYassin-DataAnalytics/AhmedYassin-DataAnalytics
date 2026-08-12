@@ -1,10 +1,16 @@
+<div align="center">
+
 # Ahmed Yassin
 
 ### Data Analyst | Business Intelligence
 
 **Power BI · SQL · Excel · Python · DAX · Data Analytics**
 
-[LinkedIn](https://www.linkedin.com/in/ahmedyassin-dataanalytics) · [Email](mailto:ahmedyasinabdelazim@gmail.com) · [Download CV](https://github.com/AhmedYassin-DataAnalytics/AhmedYassin-DataAnalytics/blob/main/Ahmed_Yassin_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/ahmedyassin-dataanalytics) ·
+[Email](mailto:ahmedyasinabdelazim@gmail.com) ·
+[Download CV](https://github.com/AhmedYassin-DataAnalytics/AhmedYassin-DataAnalytics/blob/main/Ahmed_Yassin_CV.pdf)
+
+</div>
 
 ---
 
